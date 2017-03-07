@@ -26,5 +26,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec", "~> 3.0"
 
   spec.add_dependency 'observ'
-  spec.add_dependency 'celluloid', '0.17'
+  spec.add_dependency 'celluloid', '0.17.3'
 end
