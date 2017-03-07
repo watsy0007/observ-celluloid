@@ -1,8 +1,8 @@
 require "spec_helper"
 
-RSpec.describe Observ::Celluloid do
+RSpec.describe ObServ::Celluloid do
   it "has a version number" do
-    expect(Observ::Celluloid::VERSION).not_to be nil
+    expect(ObServ::Celluloid::VERSION).not_to be nil
   end
 
   it "does something useful" do

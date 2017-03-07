@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "observ/celluloid"
+require "ob_serv/celluloid"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
